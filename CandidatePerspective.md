@@ -72,7 +72,7 @@
 * How do you track bugs?
 * What's the workflow from the planning to the finished task?
 * Tell me about your technical principles or vision.
-* Any Teck depth?
+* How do you strategically manage technical debt?
 
 ## The Team
 * Please describe me the team in you own words.
